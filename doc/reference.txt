@@ -1,0 +1,11 @@
+Cat reference:
+
+SAT:
+
+
+
+ICOM PROGRAMMER
+https://arachnoid.com/IcomProgrammer/index.html
+
+YAESU
+https://www.n3vem.com/blog/diy-rig-control-in-python
